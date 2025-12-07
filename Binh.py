@@ -5,7 +5,9 @@ student_list = []
 
 def add_student(name, year_of_birth, address):
     
-
+    abc = xyz
+    print("abcxyz")
+    
 def print_student_list():
     """
     YÊU CẦU 2: Hoàn thiện hàm này.
