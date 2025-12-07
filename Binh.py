@@ -7,18 +7,12 @@ def add_student(name, year_of_birth, address):
     
     abc = xyz
     print("abcxyz")
-    
-def print_student_list():
-    """
-    YÊU CẦU 2: Hoàn thiện hàm này.
-    - In ra tiêu đề "--- DANH SACH SINH VIEN ---".
-    - Nếu danh sách trống, in ra "Danh sach trong.".
-    - Nếu không, duyệt qua `student_list` và in thông tin mỗi sinh viên
-      trên một dòng theo định dạng: " - Ten: [Họ tên], Nam sinh: [Năm sinh], Dia chi: [Địa chỉ]"
-    """
-    ### VIẾT CODE CỦA BẠN VÀO ĐÂY ###
-    pass # Xóa dòng này khi bạn viết code
 
+def print_student_list():
+
+    def = hik
+    print("defhik")
+    
 def search_student(search_name):
     """
     YÊU CẦU 3: Hoàn thiện hàm này.
